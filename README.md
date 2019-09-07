@@ -1,3 +1,5 @@
+#### See rubric in drive for total score.
+#### Very well done! You’re footer is not displaying but all of your links work and your search works. Great job! Make sure you provide pseudo code and comments for every weekly project! 
 # HTML/CSS Weekly 5
 
 Reproduce the Google search page
